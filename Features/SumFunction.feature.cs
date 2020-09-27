@@ -21,6 +21,7 @@ namespace CalcTest.Features
     [System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
     [NUnit.Framework.TestFixtureAttribute()]
     [NUnit.Framework.DescriptionAttribute("SumFunction")]
+    []
     public partial class SumFunctionFeature
     {
         
